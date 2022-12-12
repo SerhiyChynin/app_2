@@ -1,0 +1,9 @@
+.Header-site-header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 5px;
+}
+.Header-site-header {
+    grid-area: h;
+}
